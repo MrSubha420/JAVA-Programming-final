@@ -1,0 +1,11 @@
+1)Ways of printing statement.
+2)java script console API
+3)variables in javaScript
+4)comments in javaScript
+5)Data Types in javaScript
+6)operators in javaScript
+7)function in javaScript
+8)conditional statement in javaScript
+9)loops in javaScript
+10)break and continue statement in javaScript
+11)

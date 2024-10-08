@@ -1,0 +1,21 @@
+1)write a java program to display first 100 prime number.
+2)check the number is prime or not.
+3)check the given number is perfect or not.
+4)checking the number is amstorong or not.
+5)find the sum o n natural number.
+6)find the factorial of the given number.
+7)java program generate random number.
+8)print the amstrong number in between 1 to n.
+9)check the number is palindrome or not.
+10)find the average of all the prime number in between 1 to n.
+11)differenciate all the numbers even and odd category.
+12)perfect number in java.
+13)spy number in java.
+14)Evil number in java.
+15)Neon number in java.
+16)spiral of a number.
+17)reverse number.
+18)coprime numbers in java.
+19)Twin prime program.
+20)Twisted prime program.
+21)pronic number program.

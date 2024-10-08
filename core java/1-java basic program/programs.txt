@@ -1,0 +1,23 @@
+1)Write a program print hello world
+2)Write a java program to show scope of variables
+3)Write a java program example of all the arithmetic operator.
+4)Example the use of Ternary oerater
+5)Example of conditional statement (if ,if-else,else if ladder)
+6)Example of loops(for lop ,while loop, do while loop)
+7)Example of Switch-Case.
+8)Example of jumping statement(break,continue,go to etc. keyword).
+9)Find the average of 1 to n integer number.
+10)Swaping of two integer using third vaiable & with out using third variable.
+11)Find the largest value from the array.
+12)find the g.c.d of two integer.
+13)find the l.c.m of two integer.
+14)find the sum of digits of the given number input by user.
+15)find the reverse of the number.
+16)check the year is leapyear or not
+17)students grade using switch case
+18)find the distance between two points.
+19)calculate simple interest.
+20) calculate compund interest.
+21)write a program to add two complex number.
+22)check the input chracter is vowel or consonent.
+23)check the number is even or not.

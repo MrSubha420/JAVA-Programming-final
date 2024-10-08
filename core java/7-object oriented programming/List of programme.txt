@@ -1,0 +1,31 @@
+1) Example of simple class and object programme.
+2)Example of constructor in java.
+3) Example of user defined method.
+4) Example of build in method
+5) Example of this keyword.
+6) Single inheritance in java.
+7) Multilevel inheritance in java.
+8) Multiple inheritance in java. not avilable in java.
+9) hierchical inheritance in java.
+10)Use of Super keyword for variable.
+11)Use of Super keyword for methods.
+12)Use of Super keyword for constructor.
+13)example of interface.
+14)example Abstruct class.
+15)Example of constructer over loading. 
+16)copy constructer in java.
+17)Example of method over loading / Example of compile time polymorphism.
+18)Example of operator overloading.
+19)Example of method overriding ./ Example of run time polymorphism.
+20)java program to show encapsulation in class.
+21)show the different type of access modifier in java.
+22)show data hiding in class.
+Example Association in java:
+23)one-to-many relationship.
+24)many to one relationship.
+25)many to many relationship.
+26)Example of Aggretion in java./one to one relationship association
+27)Example of composition in java.
+28)how to object pass as a argument.
+
+ 

@@ -1,0 +1,12 @@
+1)Celcious to farenhite. and farenhite to celcious.
+2)octal to decimel and decimel to octal.
+3)binary to decimel and decimel to binary.
+4)hexa decimel to decimel and decimel to hexa decimel.
+5)binary to octal and octal to binary.
+6)binary to hexa decimel and hexa decimel to binary.
+7)ocatal to hexa decimel and hexa decimel to octal.
+8)find the ascii value of a chracter.
+9)int to char and char to int.
+10)int to string and  string to int.
+11)string to object and object to string.
+12)unit conversion using switch case.
